@@ -1,6 +1,6 @@
 [Leia em Portugês!](./README.md)
 
-# Try Football Club Project
+# MongoDB Commerce
 This project was developed while a student at Trybe, in the Back-End module.
 
 ---
