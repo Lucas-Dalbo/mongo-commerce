@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+[Read it in English!](./README-Eng.md)
+
+# Projeto: MongoDB Commerce
+Este projeto foi desenvolvido enquanto estudante da Trybe no módulo de Back-End.
+
+---
+## Objetivo
+O objetivo do projeto é se familiarizar e praticar querys com um banco de dados não-relacional, o MongoDB.
+
+---
+## Aprendizados
+ - Como inserir e deletar documentos.
+ - Como editar e atualizar documentos.
+ - Como procurar e filtrar documentos.
+ 
+---
+## O que foi utilizado?
+ - MongoDB.
